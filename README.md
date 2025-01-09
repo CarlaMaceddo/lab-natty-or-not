@@ -1,51 +1,41 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# **Roteiro de Podcast: Simone de Beauvoir – Filosofia, Literatura e Feminismo**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este repositório contém o roteiro de um podcast acadêmico sobre a filósofa, escritora e militante Simone de Beauvoir. O podcast explora sua biografia, suas obras mais significativas e o impacto que ela teve na filosofia existencialista e no movimento feminista. Através deste conteúdo, buscamos oferecer uma reflexão crítica sobre a relação entre sua história pessoal, suas contribuições intelectuais e sua influência no pensamento feminista contemporâneo. 
+
+## **Objetivo**
+O podcast tem como objetivo apresentar uma análise profunda da vida e obra de Simone de Beauvoir, destacando as seguintes temáticas:
+- O contexto histórico e a formação acadêmica de Simone de Beauvoir.
+- A interseção entre sua filosofia existencialista e sua luta pelos direitos das mulheres.
+- A análise das principais obras da autora, como *O Segundo Sexo*, *A Convidada*, *Memórias de uma Moça Bem-Comportada* e *A Velhice*.
+- A relevância de seu legado no feminismo contemporâneo e sua contribuição para a luta pela igualdade de gênero.
+
+## **Estrutura do Roteiro**
+O roteiro é dividido em cinco blocos principais, que cobrem os seguintes pontos:
+
+1. **Introdução:**
+   - Apresentação da autora e introdução ao tema do podcast.
+   - Discussão sobre a relevância de Simone de Beauvoir para o pensamento feminista.
+
+2. **Contexto Histórico e Formação Acadêmica:**
+   - A trajetória pessoal de Simone de Beauvoir, desde sua infância até sua formação acadêmica na Sorbonne.
+   - Influência de Sartre e o surgimento do existencialismo como base de seu pensamento filosófico.
+
+3. **Existencialismo e Produção Literária Inicial:**
+   - O impacto do existencialismo na obra de Simone de Beauvoir e suas primeiras produções literárias, como *A Convidada*.
+
+4. ***O Segundo Sexo* (1949) – A Obra Pioneira do Pensamento Feminista:**
+   - Análise detalhada de *O Segundo Sexo*, sua importância para o feminismo e suas principais ideias sobre a construção social do gênero.
+
+5. **Outras Obras Relevantes e o Feminismo Prático:**
+   - Discussão sobre outras obras de Beauvoir, como *Memóri
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. Foi solilcitado que criasse um texto em formato de roteiro de podcast com o resumo das principais obras da Simone de Beauvoir, relacionando com a historia pessoal da autora e com o feminismo, em linguagem formal para publico acadêmico. 
+Também foi usado para gerar o markdown deste readme.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O projeto mostrou a versatilidade das IAs Generativas na criação de conteúdo academico, abrindo novos caminhos para a produção de pesquisa de genêro.
